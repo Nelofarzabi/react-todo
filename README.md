@@ -9,7 +9,6 @@
 
 - [react-todo-app](#react-todo-app)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[React Todo App\] ](#-React Todo App-)
 	- [🛠 Built With ](#-built-with-)
 		- [Tech Stack ](#tech-stack-)
 		- [Key Features ](#key-features-)
